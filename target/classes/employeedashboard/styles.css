@@ -1,0 +1,20 @@
+body{
+    background-image: url(../images/employeedashbackg.jpg);
+}
+#welcome{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+/* .list-card{
+    
+} */
+.btn{
+    background-color: rgb(50, 71, 71);
+}
+#list-container{
+    background-image: url(../images/employeedashbackg.jpg);
+}
+.list-item{
+    color: white;
+}

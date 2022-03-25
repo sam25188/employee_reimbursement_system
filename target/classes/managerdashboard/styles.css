@@ -1,0 +1,20 @@
+body{
+    background-image: url(../images/managerdashbg.jpg);
+}
+#welcome{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.list-card{
+    background-image: url(../images/managerelem.jpg);
+}
+
+#selectboxtwo{
+    width: 500px;
+}
+.list-item{
+    color: white;
+    margin-top: 25px;
+    
+}
